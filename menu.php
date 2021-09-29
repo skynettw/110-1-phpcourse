@@ -22,7 +22,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="bmi.php">BMI計算</a></li>
             <li><a class="dropdown-item" href="lotto.php">樂透號碼預測</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="allbmi.php">BMI資料管理頁面</a></li>
           </ul>
         </li>
       </ul>
